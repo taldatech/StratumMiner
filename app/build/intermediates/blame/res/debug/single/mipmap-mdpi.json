@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Docs\\Android_Apps\\StratumMiner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\Docs\\Android_Apps\\StratumMiner\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Apps\\StratumMiner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "D:\\Docs\\Android_Apps\\StratumMiner\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]

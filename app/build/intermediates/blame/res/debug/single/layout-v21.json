@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Docs\\Android_Apps\\StratumMiner\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Tal\\.android\\build-cache\\34127fa9cbc69cc42d759d84f61629857fd7aa11\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Apps\\StratumMiner\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Tal\\.android\\build-cache\\34127fa9cbc69cc42d759d84f61629857fd7aa11\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Apps\\StratumMiner\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Tal\\.android\\build-cache\\34127fa9cbc69cc42d759d84f61629857fd7aa11\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Apps\\StratumMiner\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Tal\\.android\\build-cache\\34127fa9cbc69cc42d759d84f61629857fd7aa11\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
